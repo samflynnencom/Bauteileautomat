@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-14052009-069350";"";
+"TraceParts.ClassPath";"BOSCH:/F_BOSCH/BOSCH.1/BOSCH.1.10/BOSCH.1.10.10/69-14052009-069350";"";
+"TraceParts.InstanceId";"69-14052009-0693508ZORRN3PEQUJKR8EEH5PJSOGT";"";
+"REFERENCE";"3842992891";"";
+"DESIGN";"STREBENPROFIL 20X40 ";"";
+"SUPPLIER";"Bosch Rexroth AG";"";
+"SELECTION";"L=250MM";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.0.5";"";

@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-18092006-816857";"";
+"TraceParts.ClassPath";"INAFAG:/F_INAFAG/69-18092006-816857";"";
+"TraceParts.InstanceId";"69-18092006-816857AAQ6CZSVIST6AWWAXA4Z9PJEI";"";
+"REFERENCE";"N202-E-TVP2";"";
+"DESIGN";"Zylinderrollenlager";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"SELECTION";"N202-E-TVP2";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.3.5";"";

@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11062001-150822";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.020/10-11062001-150822";"";
+"STANDARD";"DIN 937";"";
+"TraceParts.InstanceId";"10-11062001-1508225QH8EYAO6GYFOXXVPXX6GFY5K";"";
+"MATERIAL";"Frei geschnittener Stahl";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"DESIGN";"Sechskant-Kronenmutter DIN 937 - M12 - KK - 14H - AU";"";
+"TraceParts.PartStatus";"Published";"";
+"NOTE";"Kategorie: 14H - frei geschnittener Stahl";"";
+"TraceParts.PartVersion";"1.2.9";"";

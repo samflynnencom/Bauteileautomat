@@ -1,0 +1,36 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Einf\IeC {\"u}hrung}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Aufgabenstellung}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Einleitung}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Aufgabenverteilung}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Mechanik}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Greifer}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Anforderungen}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Realisierung des Greifers}{4}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Antrieb}{4}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Kugellager}{7}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Antrieb und \IeC {\"U}bersetzung Drehgelenk}{8}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.6}Kugellager Drehgelenk}{8}{subsubsection.2.1.6}
+\contentsline {subsection}{\numberline {2.2}Achsen}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Anforderungen X-Y-Z-Achse}{8}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Realisierung der Achsen}{9}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Antriebsmoment der Z-Achse}{10}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Linearf\IeC {\"u}hrung Z-Achse}{12}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Kugelumlaufspindel der Z-Achse}{12}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Berechnungen der X-Achse}{13}{subsubsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.7}Linearf\IeC {\"u}hrung der X-Achse}{15}{subsubsection.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.8}Berechnungen Y-Achse}{15}{subsubsection.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.9}Linearf\IeC {\"u}hrung der Y-Achse}{17}{subsubsection.2.2.9}
+\contentsline {subsubsection}{\numberline {2.2.10}Kugelumlaufspindel der Y-Achse}{17}{subsubsection.2.2.10}
+\contentsline {subsection}{\numberline {2.3}Gestaltung des Rahmens}{17}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Daten und Komponenten des Automaten}{19}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}X-Y-Z Achsen}{19}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Greifarm}{19}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Schmierung/Instandhaltung}{20}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Quellenangabe}{20}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Anhang}{21}{subsection.2.7}
+\contentsline {section}{\numberline {A}Anhang Mechanik}{21}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Drehgelenk und Greifer}{21}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Z-Achse}{46}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}X-Achse}{53}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Y-Achse}{62}{subsection.A.4}

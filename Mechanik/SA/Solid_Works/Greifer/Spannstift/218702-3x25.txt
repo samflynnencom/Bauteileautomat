@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052009-135359";"";
+"TraceParts.ClassPath";"BENE_INOX:/ROOT/C21/C21.060/C21.060.050/C21.060.050.T06/10-05052009-135359";"";
+"TraceParts.InstanceId";"10-05052009-1353593ZTISXNY5WQPDX0VWO0TQBHPJ";"";
+"REFERENCE";"218702-3X25";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"SUPPLIER";"BENE INOX";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartVersion";"1.1.5";"";

@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24072008-081719";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/10-24072008-081719";"";
+"STANDARD";"DIN EN ISO 7046-2";"";
+"TraceParts.InstanceId";"10-24072008-08171941SXHYQU5AYB55M1IFJEVAW81";"";
+"DESIGN";"Gewindeschneidschraube DIN EN ISO 7046-2 - M3 x 16 - H 1";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.1.2";"";

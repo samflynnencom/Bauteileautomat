@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-18092006-796929";"";
+"TraceParts.ClassPath";"INAFAG:/F_INAFAG/69-18092006-796929";"";
+"TraceParts.InstanceId";"69-18092006-7969296I7295BYRPFWRS1C0VCGQ5UHO";"";
+"REFERENCE";"16002";"";
+"DESIGN";"Rillenkugellager";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"SELECTION";"16002";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.3.2";"";
