@@ -17230,6 +17230,7 @@ Source: www.kingbright.com</description>
 <segment>
 <pinref part="SV2" gate="G$1" pin="16"/>
 <wire x1="88.9" y1="63.5" x2="93.98" y2="63.5" width="0.1524" layer="91"/>
+<label x="93.98" y="63.5" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="SCLKA" gate="G$1" pin="1"/>
@@ -17247,7 +17248,6 @@ Source: www.kingbright.com</description>
 <pinref part="SV2" gate="G$1" pin="14"/>
 <wire x1="88.9" y1="60.96" x2="93.98" y2="60.96" width="0.1524" layer="91"/>
 <label x="93.98" y="60.96" size="1.27" layer="95" xref="yes"/>
-<label x="93.98" y="63.5" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="ADDA" gate="G$1" pin="7"/>

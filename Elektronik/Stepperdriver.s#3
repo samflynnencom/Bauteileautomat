@@ -15682,7 +15682,6 @@ Source: www.kingbright.com</description>
 <sheets>
 <sheet>
 <plain>
-<text x="213.36" y="96.52" size="1.778" layer="91">Stützkondensatoren nicht vergessen!</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="81.28" y="114.3"/>

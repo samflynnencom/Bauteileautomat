@@ -15678,6 +15678,10 @@ Source: www.kingbright.com</description>
 <part name="SCLKB" library="switch-dil" deviceset="219-08*" device=""/>
 <part name="ADDB" library="switch-dil" deviceset="219-08*" device=""/>
 <part name="ADDA" library="switch-dil" deviceset="219-08*" device=""/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="R0805" value="1M"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="R0805" value="1M"/>
+<part name="P+6" library="supply1" deviceset="V+" device=""/>
+<part name="GND16" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -15775,6 +15779,10 @@ Source: www.kingbright.com</description>
 <instance part="SCLKB" gate="G$1" x="27.94" y="63.5" rot="R270"/>
 <instance part="ADDB" gate="G$1" x="27.94" y="119.38" rot="R270"/>
 <instance part="ADDA" gate="G$1" x="27.94" y="149.86" rot="R270"/>
+<instance part="R8" gate="G$1" x="190.5" y="55.88" rot="R270"/>
+<instance part="R9" gate="G$1" x="190.5" y="40.64" rot="R270"/>
+<instance part="P+6" gate="1" x="190.5" y="66.04"/>
+<instance part="GND16" gate="1" x="190.5" y="30.48"/>
 </instances>
 <busses>
 </busses>
@@ -16462,6 +16470,11 @@ Source: www.kingbright.com</description>
 <wire x1="71.12" y1="48.26" x2="66.04" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="48.26" x2="66.04" y2="43.18" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="GND16" gate="1" pin="GND"/>
+<wire x1="190.5" y1="35.56" x2="190.5" y2="33.02" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="+3V3" class="0">
 <segment>
@@ -16654,6 +16667,11 @@ Source: www.kingbright.com</description>
 <wire x1="195.58" y1="91.44" x2="190.5" y2="91.44" width="0.1524" layer="91"/>
 <junction x="190.5" y="91.44"/>
 </segment>
+<segment>
+<pinref part="P+6" gate="1" pin="V+"/>
+<pinref part="R8" gate="G$1" pin="1"/>
+<wire x1="190.5" y1="63.5" x2="190.5" y2="60.96" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="ADCIN" class="0">
 <segment>
@@ -16665,6 +16683,15 @@ Source: www.kingbright.com</description>
 <pinref part="U$2" gate="G$1" pin="ADCIN"/>
 <wire x1="215.9" y1="121.92" x2="220.98" y2="121.92" width="0.1524" layer="91"/>
 <label x="220.98" y="121.92" size="1.27" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="1"/>
+<wire x1="190.5" y1="50.8" x2="190.5" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="48.26" x2="190.5" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="48.26" x2="195.58" y2="48.26" width="0.1524" layer="91"/>
+<junction x="190.5" y="48.26"/>
+<label x="195.58" y="48.26" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="!CS_B" class="0">
